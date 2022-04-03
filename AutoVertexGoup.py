@@ -1,6 +1,6 @@
 bl_info = {
     "name": "Auto add vertex groups",
-    "author": "aapeli",
+    "author": "Very_Blank",
     "version": (1, 0),
     "blender": (2, 80, 0),
     "location": "View3D > N",
